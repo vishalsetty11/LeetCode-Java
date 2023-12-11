@@ -16,6 +16,6 @@ class Solution
                 }
             }
         }
-         return new int[2];   
+         return new int[2];
     }
 }
